@@ -1,0 +1,10 @@
+GET https://api.themoviedb.org/3/search/movie?api_key=${process.env.REACT_APP_TMDB_KEY}&language=en-US&page=1&include_adult=false&query=${e.target.value}
+
+<> 2020-12-18T205825.401.json
+
+###
+
+GET http://3/search/movie
+
+###
+
